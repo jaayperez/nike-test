@@ -1,0 +1,80 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-family: 'Bebas Neue', cursive;
+  background: #000;
+  background-image: url("https://nike-app.s3-us-west-1.amazonaws.com/nike-air-force-1.jpg");
+  background-position: bottom right;
+  background-size: contain;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+p {
+  color: #222;
+  /* color: #626263; */
+  font-family: 'Bebas Neue', cursive;
+  font-size: 0.9rem;
+  font-weight: 400;
+  letter-spacing: .06rem;
+  text-transform: uppercase;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: #0000;
+}
+
+a {
+  color:#626263;
+}
+a:hover {
+  /* color: #B0C30C; */
+  color: #0048BA;
+  text-decoration: none;
+}
+
+#locations, ul {
+  position: absolute;
+  /* opacity: 0.1; */
+  /* color:#626263; */
+  color: #E7E7E7;
+}
+
+.heading {
+  /* color: #B0C30C; */
+  /* color: #778907; */
+  color: #0048BA;
+  /* font-size: 5rem; */
+  font-weight: 300;
+  height: 20rem;
+  letter-spacing: .19rem;
+  justify-content: center;
+  overflow-wrap: break-word;
+  text-transform: uppercase;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: #0000;
+}
+
+ion-icon {
+  /* color: #B0C30C; */
+  color: #0048BA;
+  font-size: 3rem;
+  --ionicon-stroke-width: .5rem;
+}
+ion-icon:hover {
+  /* color: #B0C30C; */
+  color: #0048BA;
+}
+
+.layer-logo {
+  margin: 0 130px;
+  position: absolute;
+  opacity: 0.5;
+}
+
+.bg-black {
+    background-color: #000;
+  }

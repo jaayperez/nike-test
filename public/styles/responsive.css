@@ -1,0 +1,62 @@
+/*
+  CSS Responsive
+  Developed to be mobile first.
+  Remember, keep it light: Speed is Important!
+*/
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+  .heading {
+    font-size: 3rem;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .heading {
+    font-size: 3rem;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .heading {
+    font-size: 5rem;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .heading {
+    font-size: 5rem;
+  }
+}
+
+/* .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 75%;
+  padding: 1rem;
+} */
+
+/* .heading {
+  color: #84E205;
+  font-size: 6rem;
+  font-weight: 300;
+  padding: 2rem 0;
+  letter-spacing: .5rem;
+  text-transform: uppercase;
+} */
+
+/* color: #84E205; */
+/* color: #FA1304; */
+/* color: #007bff; */
+
+/* .con {
+  background-image: url("/images/ClipartKey_671797.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  opacity: 0.6;
+} */

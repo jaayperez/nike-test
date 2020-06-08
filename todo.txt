@@ -1,0 +1,30 @@
+Initial commit
+Initialize Node project
+Install Express and EJS view engine
+Add Procfile for Heroku cloud deployment
+
+Add public folder for front-end code
+Add views folder for EJS frontend templating
+Create and configure Express backend server
+
+
+
+Optimize for responsivness
+
+
+Add jumbo logo
+
+Using a Content Delivery Network (CDN) for CSS and JS files.
+
+
+You better get your speed up!
+You better work harder!
+You better work smarter!
+
+
+view engine in the
+Nike App Concept for #UntilWeAllWin Ad-Campaign | Node.js, Express & EJS deployed to Heroku Cloud. 🌩️
+
+
+Red: FA1304
+Green: BBCB33

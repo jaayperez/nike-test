@@ -17,7 +17,6 @@ body {
 
 p {
   color: #222;
-  /* color: #626263; */
   font-family: 'Bebas Neue', cursive;
   font-size: 0.9rem;
   font-weight: 400;
@@ -31,23 +30,17 @@ a {
   color:#626263;
 }
 a:hover {
-  /* color: #B0C30C; */
   color: #0048BA;
   text-decoration: none;
 }
 
 #locations, ul {
   position: absolute;
-  /* opacity: 0.1; */
-  /* color:#626263; */
   color: #E7E7E7;
 }
 
 .heading {
-  /* color: #B0C30C; */
-  /* color: #778907; */
   color: #0048BA;
-  /* font-size: 5rem; */
   font-weight: 300;
   height: 20rem;
   letter-spacing: .19rem;
@@ -59,13 +52,11 @@ a:hover {
 }
 
 ion-icon {
-  /* color: #B0C30C; */
   color: #0048BA;
   font-size: 3rem;
   --ionicon-stroke-width: .5rem;
 }
 ion-icon:hover {
-  /* color: #B0C30C; */
   color: #0048BA;
 }
 

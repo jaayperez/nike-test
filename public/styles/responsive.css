@@ -1,0 +1,15 @@
+@media (min-width: 576px) {
+  .heading {
+    font-size: 3rem; } }
+
+@media (min-width: 768px) {
+  .heading {
+    font-size: 3rem; } }
+
+@media (min-width: 992px) {
+  .heading {
+    font-size: 5rem; } }
+
+@media (min-width: 1200px) {
+  .heading {
+    font-size: 5rem; } }

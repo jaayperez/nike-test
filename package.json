@@ -7,19 +7,24 @@
   "homepage": "https://github.com/jaayperez/nike-app#readme",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "sass": "node-sass public/sass/ -o public/styles/"
   },
   "engines": {
     "node": "12.17.x"
   },
   "dependencies": {
     "ejs": "^3.1.3",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "node-sass-middleware": "^0.11.0"
   },
   "keywords": [
     "node",
     "heroku",
-    "express"
+    "express",
+    "sass",
+    "scss",
+    "node-sass"
   ],
   "repository": {
     "type": "git",
